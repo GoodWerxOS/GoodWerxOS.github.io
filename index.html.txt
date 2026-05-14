@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Sovereign Repository</title>
+    <style>
+        body { font-family: arial; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; background: #121212; color: #e0e0e0; }
+        audio { width: 100%; margin-top: 10px; }
+        h1, h2 { color: #ffffff; }
+    </style>
+</head>
+<body>
+    <h1>DIAMOND SERIES EXCLUSIVE</h1>
+    <p>Exclusive Multimedia Data Stream </p>
+    <p>Ⓖ 69 Good Werx OS - Proprietary Est. 2002/2012 </p>
+
+    <h2>Independent Audio Catalog</h2>
+    <p>OTM (Off Th Map) CODEX - Saint TEK: Direct Stream</p>
+    <audio controls src="OTM (Off Th Map) CODEX - Saint TEK.mp3"></audio>
+</body>
+</html>
